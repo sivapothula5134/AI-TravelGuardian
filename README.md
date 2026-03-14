@@ -1,7 +1,5 @@
 
-  # Dating app card stack
 
-  This is a code bundle for Dating app card stack. The original project is available at https://www.figma.com/design/iwhChBE0gW333WyVYRnI47/Dating-app-card-stack.
 
   ## Running the code
 
